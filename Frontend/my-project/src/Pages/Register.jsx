@@ -34,6 +34,7 @@ function Register() {
     }
   };
 
+  
   return (
     <div className="register-page">
       <form className="register-card" onSubmit={submitHandler}>
